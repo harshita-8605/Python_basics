@@ -1,1 +1,1 @@
-# Python_basics
+Basic questions of python has been done.
